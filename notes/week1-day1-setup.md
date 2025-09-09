@@ -49,10 +49,9 @@ git --version          # Git
 python3 --version      # Python
 pip --version          # Pip
 nvcc --version         # CUDA compiler
+nvidia-smi             # NVIDIA GPU info
+lsb_release -a         # Ubuntu version
 
 or
 
 dpkg -l | less
-
-nvidia-smi             # NVIDIA GPU info
-lsb_release -a         # Ubuntu version
