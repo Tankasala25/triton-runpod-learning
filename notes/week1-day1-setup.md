@@ -53,4 +53,4 @@ lsb_release -a         # Ubuntu version
 
 or
 
-dpkg -l | less
+dpkg -l 
