@@ -54,5 +54,4 @@ lsb_release -a         # Ubuntu version
 or
 
 dpkg -l
-
-
+ ## ⚠️ Difficulties I Faced on Day 1
