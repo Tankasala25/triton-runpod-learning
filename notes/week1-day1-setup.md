@@ -1,4 +1,3 @@
-# Week 1 — Day 1 Setup
 # Week 1 — Day 1: RunPod Setup and GitHub Connection
 
 ## ✅ Tasks Completed Today
